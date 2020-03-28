@@ -4,4 +4,6 @@ Terra
 Hoth
 Jakku
 Dantooine
+Aldebaran
+FictionalPlanet
 Plutão
